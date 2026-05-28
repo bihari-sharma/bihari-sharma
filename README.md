@@ -69,7 +69,7 @@
 
 ## 📫 Let's Connect!
 
-<div align="center">
+<div align="left">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bihari-sharma-2b5ab736a/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:biharisharmage2026@gmail.com)
